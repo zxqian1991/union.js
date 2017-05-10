@@ -1,6 +1,10 @@
-# fr
+# Vue-Quickstart
 
-> A Vue.js project
+> A Vue.js quickstart which is based on the Vue-cli
+
+1. with rxjs
+2. with vue-rx
+3. add qzx-mock-rest-server
 
 ## Build Setup
 
